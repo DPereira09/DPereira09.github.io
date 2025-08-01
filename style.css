@@ -24,6 +24,11 @@
      font-weight: normal;
  }
 
+ p {
+     margin: auto;
+     padding: 15px;
+ }
+
  nav {
      margin-top: 2rem;
  }
